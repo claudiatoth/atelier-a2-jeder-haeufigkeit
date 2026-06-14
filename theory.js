@@ -69,7 +69,7 @@ const theoryHTML = `
                 <a href="https://forms.gle/VRF7dp8Kc42miWU6A" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #10B981; color: white; padding: 13px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);">
                     Trimite textul Claudiei →
                 </a>
-                <p style="color: #6b7280; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
+                <p style="color: #5A5147; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
                     ʚଓ Răspuns personal pe email · Nu uita să-ți treci adresa de email în formular
                 </p>
             </div>
@@ -104,7 +104,7 @@ const theoryHTML = `
                 </tbody>
             </table>
 
-            <div class="theory-box" style="background:#fef3c7; border-left-color:#f59e0b;">
+            <div class="theory-box" style="background:#F5F0E8; border-left-color:#D4A574;">
                 <h4>⚡ Capcana de aur: „jeden Tag" (Akkusativ!)</h4>
                 <p style="margin:0;">Expresiile de timp care răspund la <strong>Wie oft? / Wann?</strong> stau la <strong>Akkusativ</strong>, chiar dacă nu există un „obiect direct":<br>
                 <strong>jeden Tag</strong> (în fiecare zi) · <strong>jede Woche</strong> · <strong>jedes Jahr</strong> · <strong>jeden Morgen / jeden Abend / jeden Montag</strong>.<br>
